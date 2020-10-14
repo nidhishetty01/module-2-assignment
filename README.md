@@ -1,4 +1,3 @@
-<!IDOCTYPE HTML >
 <HTML>
 <head>
 <meta charset="utf-8">
