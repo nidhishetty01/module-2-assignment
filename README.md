@@ -97,8 +97,7 @@ h1 {
       <li> Balsamic Marinated Flank Steak </li>
       <li> Grilled Hanger Steak with Kimchi-Apple Slaw</li>
       <li> Throwback Porterhouse Steaks</li>
-      <li> Minute Steak Stacks with Herbed Anchovy Butter </li>
-      <li> Grilled skirt Steak with Salsa verde </li>
+     <li> Minute Steak Stacks with Herbed Anchovy Butter </li>
     </ul>
     </section>
     </div>
